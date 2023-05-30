@@ -1,0 +1,1 @@
+SELECT T0."ItemCode", T0."ItemName" FROM OITM T0 WHERE T0."U_Factor_Puntaje_Cliente"= 1
